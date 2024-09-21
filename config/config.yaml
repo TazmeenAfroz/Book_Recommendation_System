@@ -1,0 +1,18 @@
+# FP-Growth Algorithm Settings
+fp_growth:
+  min_support: 100
+  min_confidence: 0.5
+
+# Data Files
+data:
+  books_file: 'data/Books.csv'
+  ratings_file: 'data/Ratings.csv'
+
+# Visualization Settings
+visualizations:
+  top_n_books: 10
+  top_n_publishers: 10
+
+# Recommendation Settings
+recommendations:
+  max_recommendations: 5
