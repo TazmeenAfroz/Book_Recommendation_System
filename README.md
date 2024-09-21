@@ -13,7 +13,9 @@ This project is a Streamlit-based web application that provides book recommendat
 ## Project Structure
 
 ```
-project_root/
+
+
+Book_Recommendation_System/
 │
 ├── app.py                            # Main Streamlit application
 ├── README.md                         # Project documentation
@@ -73,6 +75,10 @@ This project uses the Book-Crossing dataset. The required CSV files are located 
 ## Notebook
 
 The `notebook/code.ipynb` file contains the exploratory data analysis and initial code development for this project. You can run this Jupyter notebook to understand the data processing steps and algorithm implementation in detail.
+
+## Live Demo
+
+Check out the live demo of the application [here](https://bookrecommendationsystem-jouaalaumc9xhhevnfvcba.streamlit.app/).
 
 ## Contributing
 
