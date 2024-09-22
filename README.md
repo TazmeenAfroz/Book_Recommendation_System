@@ -41,7 +41,7 @@ Book_Recommendation_System/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/book-recommendation-system.git
+   git clone https://github.com/TazmeenAfroz/Book_Recommendation_System.git
    cd book-recommendation-system
    ```
 
